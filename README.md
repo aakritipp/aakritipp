@@ -34,20 +34,20 @@
 
 ### CNN Lenet-5 Implementation Using C++/CUDA
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/Lenet5)
-- Custom CUDA kernels for convolution operations
+- Lenet5 implementation with custom CUDA kernels for convolution operations
 - 16x speedup in convolution operations
 - 95% accuracy on MNIST dataset
 - **Tech Stack:** C++, CUDA, CNN Architecture
 
 ### Retrieval Augmented Fraud Detection
-- Novel hybrid approach for financial fraud detection
+- Financial fraud detection through a retrieval-augmented classification framework
 - Pre-trained SAINT encoder with custom retrieval
 - 2.209% improvement over SAINT on benchmark datasets
 - **Tech Stack:** Python, Deep Learning, SAINT Architecture
 
 ### LMSYS - Chatbot Arena Human Preference Predictions
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
-- Preference prediction system for LLM responses
+- Preference prediction system for the LMSYS Chatbot Arena competition to predict human preference scores between pairs of LLM responses.
 - QLoRA with 4-bit quantization
 - Hybrid architecture with Gemma-2B and Llama-3B
 - **Tech Stack:** PyTorch, LLMs, QLoRA, GPU Computing
