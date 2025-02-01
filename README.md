@@ -40,6 +40,7 @@
 - **Tech Stack:** C++, CUDA, CNN Architecture
 
 ### Retrieval Augmented Fraud Detection
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/Retrieval-Augmented-Fraud-Detection)
 - Financial fraud detection through a retrieval-augmented classification framework
 - Pre-trained SAINT encoder with custom retrieval
 - 2.209% improvement over SAINT on benchmark datasets
