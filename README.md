@@ -39,7 +39,7 @@
 - Financial fraud detection through a retrieval-augmented classification framework
 - Used pre-trained SAINT encoder with custom retrieval
 - 2.209% improvement over SAINT on benchmark datasets
-- **Tech Stack:** Python, Deep Learning, SAINT Architecture
+- **Tech Stack:** Python, Deep Learning, SAINT Architecture, RAGs
 
 ### LMSYS - Chatbot Arena Human Preference Predictions
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/LMSYS---Chatbot-Arena-Human-Preference-Predictions)
