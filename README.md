@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al1745@g.rit.edu)
 
 ## 🎓 Education
-- **MS in Computer Science** - Rochester Institute of Technology (GPA: 4.0/4.0)
+- **MS in Computer Science** - Rochester Institute of Technology
 - **BTech in Electronics and Communication** - Manipal Institute of Technology
 
 ## 💻 Technical Skills
