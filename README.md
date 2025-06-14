@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aakriti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/aakriti-pandey-572257b6/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/aakriti-572257b6/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:al1745@g.rit.edu)
 
 ## 🎓 Education
