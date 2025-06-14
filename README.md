@@ -34,17 +34,10 @@
 
 ## 🚀 Featured Projects
 
-### CNN Lenet-5 Implementation Using C++/CUDA
-[![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/Lenet5)
-- Lenet5 implementation with custom CUDA kernels for convolution operations
-- 16x speedup in convolution operations
-- 95% accuracy on MNIST dataset
-- **Tech Stack:** C++, CUDA, CNN Architecture
-
-### Retrieval Augmented Fraud Detection
+### Retrieval Augmented Based Fraud Classification
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/Retrieval-Augmented-Fraud-Detection)
 - Financial fraud detection through a retrieval-augmented classification framework
-- Pre-trained SAINT encoder with custom retrieval
+- Used pre-trained SAINT encoder with custom retrieval
 - 2.209% improvement over SAINT on benchmark datasets
 - **Tech Stack:** Python, Deep Learning, SAINT Architecture
 
@@ -54,6 +47,13 @@
 - QLoRA with 4-bit quantization
 - Hybrid architecture with Gemma-2B and Llama-3B
 - **Tech Stack:** PyTorch, LLMs, QLoRA, GPU Computing
+
+### CNN Lenet-5 Implementation Using C++/CUDA
+[![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/Lenet5)
+- Lenet5 implementation with custom CUDA kernels for convolution operations
+- 16x speedup in convolution operations
+- 95% accuracy on MNIST dataset
+- **Tech Stack:** C++, CUDA, CNN Architecture
 
 ### Automated Code Comment Update System
 [![GitHub](https://img.shields.io/badge/GitHub-View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aakritipp/CUP-HebCUP-combined-Approach)
